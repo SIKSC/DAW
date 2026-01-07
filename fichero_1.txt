@@ -1,2 +1,6 @@
 Fichero_1.txt
+<<<<<<< HEAD
 Hola
+=======
+Adios
+>>>>>>> v0.2
